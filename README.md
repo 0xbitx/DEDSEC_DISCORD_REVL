@@ -8,6 +8,23 @@
 ## DESCRIPTION
 DEDSEC_DISCORD_REVL is capable of creating a malicious python code. When the user uses this code, their discord account information, such as public ip address, user_id, email, phonenumber, token, nitro, etc, will be obtained and automatically sent to your server and you can fully take over their account and take control of it using token.
 
+<h3 align="center"> SUPPORTED INFORMATION CAN DUMP</h3>
+<div align="center">
+   
+  | INFORMATION |
+  | -- |
+  | PUBLIC IP  |
+  | Username    | 
+  | USERID | 
+  | EMAIL | 
+  | PHONE NUMBER | 
+  | AVATAR LINK | 
+  | TOKEN | 
+  | NITRO | 
+  | 2FA/MFA STATUS | 
+  | CREATION DATE |
+</div>
+
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DISCORD_REVL.git
     * cd DEDSEC_DISCORD_REVL
