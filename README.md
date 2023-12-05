@@ -28,8 +28,8 @@ DEDSEC_DISCORD_REVL is capable of creating a malicious python code. When the use
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DISCORD_REVL.git
     * cd DEDSEC_DISCORD_REVL
-    * pip3 install pystyle pycryptodome tabulate
-    * python3 dedsec_discord_revl.py
+    * pip3 install pystyle tabulate
+    * ./dedsec_discord_revl
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
