@@ -28,7 +28,8 @@ DEDSEC_DISCORD_REVL is capable of creating a malicious python code. When the use
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DISCORD_REVL.git
     * cd DEDSEC_DISCORD_REVL
-    * pip3 install pystyle tabulate
+    * pip3 install pystyle
+    * chmod +x dedsec_discord_revl
     * ./dedsec_discord_revl
 
 ### TESTED ON FOLLOWING
